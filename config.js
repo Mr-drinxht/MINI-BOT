@@ -25,8 +25,8 @@ module.exports = {
     // Email Configuration (Nodemailer)
     EMAIL_HOST: 'smtp.gmail.com',
     EMAIL_PORT: 587,
-    EMAIL_USER: 'your-email@gmail.com',
-    EMAIL_PASS: 'your-app-password',
+    EMAIL_USER: 'alixexadron7@gmail.com',
+    EMAIL_PASS: '@Lix12345',
     EMAIL_FROM: 'QUEEN-MINI <noreply@queen-mini.com>',
     
     // WhatsApp Bot Configuration
@@ -55,9 +55,9 @@ module.exports = {
     MAX_RETRIES: 3,
     
     // GitHub Integration (Optional)
-    GITHUB_TOKEN: process.env.GITHUB_TOKEN || '',
-    GITHUB_REPO_OWNER: process.env.GITHUB_REPO_OWNER || '',
-    GITHUB_REPO_NAME: process.env.GITHUB_REPO_NAME || '',
+    GITHUB_TOKEN: process.env.GITHUB_TOKEN || 'notihin',
+    GITHUB_REPO_OWNER: process.env.GITHUB_REPO_OWNER || 'n',
+    GITHUB_REPO_NAME: process.env.GITHUB_REPO_NAME || 'n',
     
     // Copyright Information
     COPYRIGHT: {
